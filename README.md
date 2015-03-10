@@ -17,6 +17,7 @@ This is a documentation repository for docker images used at xyz.
 
 **Ruby**
 
+[https://github.com/guzmo/xyz-docker-ruby](https://github.com/guzmo/xyz-docker-ruby)
 
 **PHP**
 
