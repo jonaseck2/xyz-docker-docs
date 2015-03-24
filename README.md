@@ -28,8 +28,11 @@ This is a documentation repository for docker images used at xyz.
 [https://github.com/jonaseck2/xyz-php](https://github.com/jonaseck2/xyz-php)
 
 
+**Api for local development**
 
+XYZ should try to use the same REST API when handling storage/data.
 
+The repository and more info about this can be found at [https://github.com/guzmo/xyz-docker-dev-api](https://github.com/guzmo/xyz-docker-dev-api "Dev api")
 
 
 
