@@ -15,6 +15,10 @@ This is a documentation repository for docker images used at xyz.
 
 [https://github.com/guzmo/xyz-docker-nodejs](https://github.com/guzmo/xyz-docker-nodejs)
 
+**react.js**
+
+[https://github.com/cfj/react-boilerplate](https://github.com/cfj/react-boilerplate)
+
 **Java**
 
 [https://github.com/jonaseck2/xyz-java-jetty](https://github.com/jonaseck2/xyz-java-jetty)
